@@ -1,6 +1,7 @@
 // Gabriel Bittencourt
 // Anel.cpp
 
+
 #include "stdafx.h"
 #include <mpi.h>
 #include <stdio.h>
