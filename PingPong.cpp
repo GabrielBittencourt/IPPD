@@ -1,6 +1,7 @@
 // Gabriel Bittencourt
 // PingPong.cpp
 
+
 #include "stdafx.h"
 #include <mpi.h>
 #include <stdio.h>
